@@ -1,5 +1,4 @@
 Hello
 =====
 
-First commit!
-Second Update!
+hi,this is a test.
